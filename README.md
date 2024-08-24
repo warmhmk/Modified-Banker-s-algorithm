@@ -130,9 +130,8 @@ total time: 11.018242597579956
 ```
 
 ### References
-- Paper: Modified Banker's Algorithm with Dynamically Released Resources
-- DOI:10.1109/CISCE52179.2021.9445935
-- Conference: 2021 International Conference on Communications, Information System and Computer Engineering (CISCE).
+
+Song, Dan & Li, Yadong & Song, Tengtao. (2021). Modified Banker's algorithm with dynamically release resources. 566-569. 10.1109/CISCE52179.2021.9445935. 
 
 
 
