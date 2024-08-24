@@ -33,8 +33,6 @@ The following image illustrates how `process0` behaves in the modified algorithm
 - **`README.md`**: This file.
 - **`modified_bankers_algorithm.py`**: The implementation of the modified Banker's Algorithm.
 - **`original_bankers_algorithm.py`**: The implementation of the original Banker's Algorithm for reference.
-- **`sample_output_modified.txt`**: Sample output of the modified Banker's Algorithm.
-- **`sample_output_original.txt`**: Sample output of the original Banker's Algorithm.
 
 ## How to Run
 
