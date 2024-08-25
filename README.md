@@ -12,7 +12,7 @@ In the original Banker's Algorithm:
 - Each process runs to completion before releasing any of its allocated resources.
 - Resources are checked at the beginning to ensure that the system remains in a safe state throughout the process execution.
 
-![Original Flow of the Algorithm](original_flow.png)
+![Original Flow of the Algorithm](images/original_flow.png)
 
 ### Modified Banker's Algorithm
 
@@ -20,13 +20,13 @@ In the modified version:
 - Processes can release a portion of their allocated resources as they proceed, making them available for other processes earlier.
 - This dynamic release is demonstrated in `process0`, where 4 units of resource `A` are released midway through its execution.
 
-![Modified Flow of the Algorithm](modified_flow.png)
+![Modified Flow of the Algorithm](images/modified_flow.png)
 
 #### Visualization of `process0` in Modified Algorithm
 
 The following image illustrates how `process0` behaves in the modified algorithm, releasing resources dynamically during its execution:
 
-![Process0 Visualization in Modified Algorithm](process0_vis_(modified_algo).png)
+![Process0 Visualization in Modified Algorithm](images/process0_vis_(modified_algo).png)
 
 ## Files in this Repository
 
